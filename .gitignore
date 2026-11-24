@@ -1,0 +1,18 @@
+# u-motasimfuad-cat-r1 — one-line cat review entry
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+# Local run artefacts (grader writes /output itself)
+output/
+entry.txt
+# Virtual environments and tooling state
+.venv/
+venv/
+.env
+# macOS / editor droppings
+.DS_Store
+.vscode/
+.idea/
+# Build bundle artefacts produced by the make.fun kit
+*.tar.gz
